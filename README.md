@@ -11,13 +11,13 @@ credentials:
 <br/>
 For SuperAdmin 
 <br/>
-  email: anas@test.com
+  email: admin@test.com
   <br/>
   password: 123654  
 <br/>
 For Staff:
 <br/>
-  email: anu@test.com
+  email: staff@test.com
   <br/>
   password: 123456
 
