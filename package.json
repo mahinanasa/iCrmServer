@@ -12,6 +12,10 @@
     "dev": "concurrently \"npm run server\" \"npm run start --prefix client\"",
     "setup": "npm install && npm install --prefix client"
   },
+  "engines": {
+    "node": "12.18.0",
+    "npm": "6.14.4"
+  },
   "keywords": [],
   "license": "ISC",
   "dependencies": {
