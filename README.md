@@ -19,15 +19,9 @@ Server Url: https://icrm-server.herokuapp.com
   - *Mongoose* for Db connection in config folder(db.js)
   - Powerpacked express middlewares(helmet etc..) for preventing basic attacks (XXS, NoSQL injection)
 
-
+## MongoDB hosted in mLab
 
 ## 🛠 Project Setup Instructions
-
-  - To install the Client and Server dependencies.
-    
-    ```
-    npm run setup
-    ```
 
 ### Development mode scripts
   
