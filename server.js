@@ -19,9 +19,9 @@ const app = express();
 dotenv.config({path:'./config/config.env'});
 
 //Development mode logging
-if(process.env.NODE_ENV === 'development'){
+//if(process.env.NODE_ENV === 'development'){
   app.use(morgan('dev'));
-}
+//}
 
 
 //Db connection
