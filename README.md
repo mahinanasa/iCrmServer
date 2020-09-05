@@ -6,6 +6,22 @@ Demo url: https://icrm-client.herokuapp.com/login
 
 Server Url: https://icrm-server.herokuapp.com
 
+Demo url: https://icrm-client.herokuapp.com
+
+credentials:
+<br/>
+For SuperAdmin 
+<br/>
+  email: anas@test.com
+  <br/>
+  password: 123654  
+<br/>
+For Staff:
+<br/>
+  email: anu@test.com
+  <br/>
+  password: 123456
+
 
 ## 👷‍♂️ Contents of the server
   - Node and Express server
