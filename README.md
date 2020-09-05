@@ -2,7 +2,6 @@
 
 <p align="center">" Simple CRM Application "</p>
 
-Demo url: https://icrm-client.herokuapp.com/login
 
 Server Url: https://icrm-server.herokuapp.com
 
